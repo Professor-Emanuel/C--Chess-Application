@@ -1,0 +1,46 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\OneDrive - e-uvt.ro\\Informatica\\Programing\\C#Applications\\ChessBoardConsoleApp3\\ChessBoardModel\\ChessBoardModel.csproj": {}
+  },
+  "projects": {
+    "D:\\OneDrive - e-uvt.ro\\Informatica\\Programing\\C#Applications\\ChessBoardConsoleApp3\\ChessBoardModel\\ChessBoardModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\OneDrive - e-uvt.ro\\Informatica\\Programing\\C#Applications\\ChessBoardConsoleApp3\\ChessBoardModel\\ChessBoardModel.csproj",
+        "projectName": "ChessBoardModel",
+        "projectPath": "D:\\OneDrive - e-uvt.ro\\Informatica\\Programing\\C#Applications\\ChessBoardConsoleApp3\\ChessBoardModel\\ChessBoardModel.csproj",
+        "packagesPath": "C:\\Users\\Emanuel\\.nuget\\packages\\",
+        "outputPath": "D:\\OneDrive - e-uvt.ro\\Informatica\\Programing\\C#Applications\\ChessBoardConsoleApp3\\ChessBoardModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Emanuel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net4.7.2",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net4.7.2",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

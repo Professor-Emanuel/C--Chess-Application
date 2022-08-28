@@ -1,0 +1,10 @@
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe.config
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.exe
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\bin\Debug\ChessBoardConsoleApp.pdb
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.dll
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\bin\Debug\ChessBoardModel.pdb
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.AssemblyReference.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CoreCompileInputs.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.csproj.CopyComplete
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.exe
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardConsoleApp\obj\Debug\ChessBoardConsoleApp.pdb

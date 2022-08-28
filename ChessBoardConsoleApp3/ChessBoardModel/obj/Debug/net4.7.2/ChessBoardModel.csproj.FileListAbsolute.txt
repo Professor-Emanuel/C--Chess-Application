@@ -1,0 +1,9 @@
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\bin\Debug\net4.7.2\ChessBoardModel.dll
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\bin\Debug\net4.7.2\ChessBoardModel.pdb
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.csproj.AssemblyReference.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.AssemblyInfoInputs.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.AssemblyInfo.cs
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.csproj.CoreCompileInputs.cache
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.dll
+D:\OneDrive - e-uvt.ro\Informatica\Programing\C#Applications\ChessBoardConsoleApp3\ChessBoardModel\obj\Debug\net4.7.2\ChessBoardModel.pdb
